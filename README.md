@@ -48,7 +48,7 @@
 
 ![Название скриншота 1](https://github.com/Fizic666/HomeWork_Disaster-recovery-Keepalived/blob/main/Zadanie%201.JPG)  
 
-Схема так же приложена, файл zadani_1.
+Схема так же приложена, файл [zadani_1](https://github.com/Fizic666/HomeWork_Disaster-recovery-Keepalived/blob/main/zadanie_1.pkt).
 
 ------
 
